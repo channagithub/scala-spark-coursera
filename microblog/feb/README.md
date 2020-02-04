@@ -1,7 +1,7 @@
 --------[Mon Feb  3 08:41:28 EST 2020]--------
 
-0.  (big data analysis with scala spark)[https://www.coursera.org/learn/scala-spark-big-data/home/welcome]  
-1.  installed java, sbt [(link)[https://www.coursera.org/learn/scala-spark-big-data/supplement/PH9r4/tools-setup]]  
+0.  [big data analysis with scala spark](https://www.coursera.org/learn/scala-spark-big-data/home/welcome)  
+1.  installed java, sbt [[link](https://www.coursera.org/learn/scala-spark-big-data/supplement/PH9r4/tools-setup)]  
 2.  ```$ sbt```  
 	 - it created 2 folders, 'project' and 'project/target'  
 	 - ./hello/src/main/scala/example/Hello.scala had the code  
@@ -15,6 +15,6 @@
   
 --------[Tue Feb  4 07:45:56 EST 2020]--------  
   
-0.  reading (this)[https://www.scala-sbt.org/release/docs/Setup.html]    
+0.  reading [this](https://www.scala-sbt.org/release/docs/Setup.html)    
 1.  created this git repo to log my learning  
-2.  reading (this)[https://www.coursera.org/learn/scala-spark-big-data/supplement/817lQ/sbt-tutorial]  
+2.  reading [this](https://www.coursera.org/learn/scala-spark-big-data/supplement/817lQ/sbt-tutorial)  
