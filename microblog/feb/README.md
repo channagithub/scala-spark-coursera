@@ -22,7 +22,7 @@
 
 --------[Fri Feb  7 09:06:00 EST 2020]--------
 
-0.  Download the assignment. (link)[https://www.coursera.org/learn/scala-spark-big-data/programming/I6L8m/example]
+0.  Download the assignment. [link](https://www.coursera.org/learn/scala-spark-big-data/programming/I6L8m/example)  
 1.  implement sum and max function
 2.  use sbt, console to check the implementation as follows 
 	```bash
