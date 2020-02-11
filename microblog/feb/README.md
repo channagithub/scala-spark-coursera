@@ -38,3 +38,9 @@
 	res1: Int = 22
 
 	```
+
+--------[Tue Feb 11 08:40:35 EST 2020]--------
+
+0.  [5 min] intro 
+1.  [10 min] data parallel within a system (multi-processing) to distributed data-parallel (multi-node) 
+2.  [5 min] latency 
